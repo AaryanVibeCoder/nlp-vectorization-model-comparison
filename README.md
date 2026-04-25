@@ -12,7 +12,7 @@ This project compares different NLP vectorization techniques and ML models for s
 - Multinomial Naive Bayes
 
 ## Results
-TF-IDF with Logistic Regression performed best.
+Counter Vectorizer with Logistic Regression performed best.
 
 ## Dataset
 SMS Spam Collection Dataset
